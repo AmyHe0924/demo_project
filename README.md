@@ -6,3 +6,5 @@
 ## How to safely store a password?
 - *Github.* Yuu97
 - **Github.** Yuu97
+
+- don't put octocat in remote repo
