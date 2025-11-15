@@ -4,5 +4,5 @@
 - Euphoria + 1997 + Yuu -> Yuu1997phoria
 
 ## How to safely store a password?
-- *Github.*Yuu97
-- **Github.**Yuu97
+- *Github.* Yuu97
+- **Github.** Yuu97
